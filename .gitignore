@@ -1,0 +1,34 @@
+# General
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# visual studio code
+.vscode/
+
+# pycharm
+.idea/
+
+# python
+venv/
+virtualenv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.egg-info/
+docs/build_*
+os
+
+# data dir
+server/debug_templates/data
+
+# misc
+.DS_Store
+
+# instance config
+configs/app_config.py
+
+
+celery-beat*
+celery-*
