@@ -1,6 +1,6 @@
-### Deep Learning Specialization
+## Deep Learning Specialization
 
-### Caveat Emptor
+## Caveat Emptor
 - Coursera forbids plagiarism and copying of materials from online by students.
 - I recommend observing those guidelines and my notes and thoughts are personal, free to use at your own risk..
 
