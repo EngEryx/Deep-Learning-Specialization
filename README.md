@@ -1,9 +1,12 @@
 ## Deep Learning Specialization
 
+- For reference purposes only.
+
 ## Achievements
 - [Certificate 1]() Course 1 of 5 Neural Networks and Deep Learning
 - [Certificate 2]() Course 2 of 5 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - [Certificate 3](https://www.coursera.org/account/accomplishments/certificate/UR9THN9X5UYF) Course 3 of 5 Structuring Machine Learning Projects
+- [Certificate 4]() Course 4 of 5 Convolutional Neural Networks
 
 ## Take Aways
 
